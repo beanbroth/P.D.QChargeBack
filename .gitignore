@@ -73,10 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-PDQChargeBack/Saved/Config/CrashReportClient/UECC-Windows-E0655BBE4DC6D1F67D6C9FA05BB12FCB/CrashReportClient.ini
-
-PDQChargeBack/Saved/Config/CrashReportClient/UECC-Windows-E0655BBE4DC6D1F67D6C9FA05BB12FCB/
-
-PDQChargeBack/Saved/Config/CrashReportClient/UECC-Windows-F4588F2C422BA4D19CD22BA3288F937D/
-
-PDQChargeBack/Saved/Logs/
+PDQChargeBack/Saved/
