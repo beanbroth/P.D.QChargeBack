@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 PDQChargeBack/Saved/
+
+PDQChargeBack.uproject
